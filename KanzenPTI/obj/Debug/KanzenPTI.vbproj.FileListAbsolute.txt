@@ -1,0 +1,571 @@
+D:\2021\PTI\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+D:\2021\PTI\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe
+D:\2021\PTI\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.pdb
+D:\2021\PTI\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.xml
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.exe
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.xml
+D:\2021\PTI\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\minin\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\Marina\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.exe
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.xml
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.pdb
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.exe
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.pdb
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\bin\Debug\KanzenPTI.xml
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+\\Mac\Home\Downloads\KanzenPTI\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+D:\Marina\PTI\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\Marina\Desktop\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\Marina\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\19010031\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\gabri\Videos\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\gabri\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Music\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoDespesa.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoDespesa.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucroGeral.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoDespesa.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucroGeral.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe.licenses
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanPedidos.resources
+C:\Users\Marina\Pictures\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanVenda.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanPedidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanVenda.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoDespesa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucroGeral.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe.licenses
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanPedidos.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanVenda.resources
+C:\Users\19010283\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe.licenses
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConPedidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenuu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVencPed.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmRelatorios.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe.config
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.xml
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.pdb
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbprojResolveAssemblyReference.cache
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.exe
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.pdb
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\KanzenPTI.xml
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadAtualizarProduto.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadCliente.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadDespesa.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFornecedor.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadFuncionario.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadMatériaPrima.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadPedidos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadProduto.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVendas.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadVerAtualizarPedidos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanPedidos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntFinanVenda.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntMateriaPrima.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmEntProdutos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFechamento.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmFormasDePagamento.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLanDespesas.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmSaidaMatPrima.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClienteMaisLucrativo.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConClientes.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesaPorPeriodo.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFechamento.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFornecedor.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConFuncionarios.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoDespesa.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucro.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConGraficoLucroGeral.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConDespesa.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConLucroNoMes.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatAbaixoDoEstoque.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConMatPrima.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConPedidos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdAbaixoDoEstoque.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConProdutos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConQtdAtuProd.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConReceitasPorPeriodo.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConStatusPedido.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVencPed.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendaPeriodo.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmConVendasPorCodigo.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmProdutosMaisVendidos.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmQtdMatPrima.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmHome.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmRelatorios.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenu.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMenuu.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadEscolhaVenda.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmLogin.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.Resources.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmImp.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.vbproj.GenerateResource.Cache
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.exe.licenses
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadastroLogin.resources
+C:\Users\Marina\Downloads\KanzenPTI_v2\KanzenPTI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmCadastroLogin.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmBackUp.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMainVendas.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\KanzenPTI_v2\KanzenPTI\obj\Debug\KanzenPTI.FrmMainDESP.resources
